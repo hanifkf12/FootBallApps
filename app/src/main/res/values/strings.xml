@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Football Apps</string>
+    <string name="title_matches">Matches</string>
+    <string name="title_teams">Teams</string>
+    <string name="title_favorites">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="league_array">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+        <item>Netherlands Eredivisie</item>
+    </array>
+</resources>
